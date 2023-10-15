@@ -44,7 +44,7 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
     - [🇺🇦 Ucrânia]()
     - [🇧🇾 Bielorrússia]()
     - [🇰🇿 Cazaquistão]()
-10. [**🌎 América Latina e Brasil**]()
+10. [**🌎 América Latinal**]()
     - [🇧🇷 Brasil]()
 
 <h2 style="background-color: #F5F5F5;">Autores e Contribuidores</h2>
