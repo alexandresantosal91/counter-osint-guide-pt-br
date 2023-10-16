@@ -24,7 +24,7 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
     - [📍 Endereço Físico e Geolocalização](./pages/7-endereco-fisico.md)
     - [🔑 Senha](./pages/8-senha.md)
     - [🖼️ Foto](./pages/9-foto.md)
-4. [**💧 Vazamentos de Dados e Violações, "probiv"**](./pages/10-vazamentos-dados.md)
+4. [**💧 Vazamentos de banco de dados e “probiv” (verificações de antecedentes ilegais)**](./pages/10-vazamentos-dados.md)
     - [🔎 Determinando a Fonte de um Vazamento]()
     - [🐦 Tokens Canary]()
     - [Tornando as Violações Inúteis]()
