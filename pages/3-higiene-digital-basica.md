@@ -30,4 +30,4 @@ Nesse cenário, não podemos contar com a proteção do estado ou com as garanti
 
 ---
 
-[⬅️ Anterior](2-por-que-isso-e-importante.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](./)
+[⬅️ Anterior](2-por-que-isso-e-importante.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](4-numero-de-telefone.md)
