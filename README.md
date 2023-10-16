@@ -1,7 +1,7 @@
 # Guia Counter-OSINT e de Privacidade: Protegendo Seus Dados Pessoais
 
-![Último commit do GitHub](https://img.shields.io/github/last-commit/alexandresantosal91/counter-osint-guide-pt-br?label=Última%20Atualização)
-![Atividade de Confirmação no GitHub](https://img.shields.io/github/commit-activity/m/alexandresantosal91/counter-osint-guide-pt-br?color=yellow&label=Frequência%20de%20Atualização)
+[![Último commit no GitHub](https://img.shields.io/github/last-commit/alexandresantosal91/counter-osint-guide-pt-br?label=Última%20Commit&color=success)](https://github.com/alexandresantosal91/counter-osint-guide-pt-br/commits/main)
+[![Atividade de commits no GitHub](https://img.shields.io/github/commit-activity/m/alexandresantosal91/counter-osint-guide-pt-br?color=yellow&label=Frequência%20de%20Atualização&color=success)](https://github.com/alexandresantosal91/counter-osint-guide-pt-br)
 
 **[Versão Russa](https://github.com/soxoj/counter-osint-guide-ru)** 
 
@@ -71,8 +71,3 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
     </td>
   </tr>
 </table>
-
-
-
-
-  
