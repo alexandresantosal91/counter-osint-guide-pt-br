@@ -52,4 +52,4 @@ são inventadas maneiras originais e não muito boas, exemplos podem ser lidos n
 - [King's new makeup](https://telegra.ph/Novyj-makiyazh-korolya-07-14)
 ---
 
-[⬅️ Anterior](./senha.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️]()
+[⬅️ Anterior](./senha.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./10-vazamentos-dados.md)
