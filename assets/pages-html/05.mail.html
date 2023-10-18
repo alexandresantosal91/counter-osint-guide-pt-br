@@ -1,0 +1,91 @@
+<h1>Endereço de Email</h1>
+
+<p>Um endereço de e-mail é, e permanece, o identificador mais comum para uma conta na rede. Você pode não ter um número de telefone, mas deve ter uma caixa de correio - esta é uma regra não escrita.</p>
+
+<p>A presença de um e-mail por si só revela algumas informações sobre você. Em primeiro lugar, temos o <strong>alias</strong>, o nome da caixa, à esquerda do símbolo "@". O primeiro e mais óbvio conselho é não escolher suas iniciais, sobrenome ou ano de nascimento como nome de e-mail, a menos que seja uma caixa de correio puramente pessoal ou de trabalho.</p>
+
+<p>A segunda dica, mas importante, é estudar cuidadosamente o provedor de e-mail. Os serviços de e-mail gratuitos mais conhecidos "perseguem" o e-mail, oferecendo contas em outros produtos. Isso é especialmente verdade para o Google e o Yandex, pois essas empresas atuam em várias outras áreas e, ao fornecer uma caixa de correio gratuita, você se torna um consumidor passivo de dezenas de outros serviços - seu ganha-pão.</p>
+
+<h2>Separação de Contas</h2>
+
+<p>Para dificultar a obtenção de informações sobre você, é recomendável usar os endereços de e-mail com sabedoria, aproveitando a capacidade técnica de criar variações. De acordo com os RFCs, após o alias e antes do sinal "@", você pode especificar um sufixo adicional com "+", por exemplo, <code>apelido+facebook@google.com</code>. E-mails enviados para esse endereço de e-mail serão entregues ao proprietário de <code>apelido@google.com</code>, mas do ponto de vista dos sites, ele será considerado um endereço de e-mail completamente diferente. Além disso, o Google trata os pontos no alias como opcionais e eles funcionam como sufixos após o "+".</p>
+
+<p>Existem várias maneiras de usar: um endereço de e-mail exclusivo para cada serviço, um endereço de e-mail exclusivo para cada "personalidade" ou usar apenas para alguns serviços de acordo com um esquema conhecido apenas por você.</p>
+
+<p>Os benefícios adicionais do uso de sufixos e pontos são descritos <a href="./breach-detection.md#using-aliasesfake-mail-addresses">aqui</a>. Você também pode usar a ferramenta <a href="https://github.com/soxoj/mailto_analyzer">mailto_analyzer</a> para analisar a exposição do seu endereço de e-mail.</p>
+
+<h2>Adeus às Caixas de Inscrição, Lixo e Spam</h2>
+
+<p>Também vale a pena mencionar o hábito de muitas pessoas de usar uma caixa de correio separada para serviços não críticos e várias inscrições de spam. A separação de caixas de correio em si é útil, mas apenas quando feita de forma consciente (veja acima).</p>
+
+<p>Se você não verifica essa caixa de correio e lá estão milhares de mensagens não lidas, este é um sinal importante: reveja se você realmente precisa dessa caixa de correio. Se não, cancele a inscrição em todas as listas de envio e exclua as contas associadas a ela, para minimizar a possibilidade de usar este endereço de e-mail para coletar informações sobre você.</p>
+
+<h2>Caixas de Correio de Uso Único</h2>
+
+<p>Existem muitos serviços que oferecem caixas de correio descartáveis que duram de 10 a 15 minutos. Elas são úteis para registros únicos em sites que você está visitando pela primeira vez e provavelmente não usará novamente. Nesta seção, consideraremos serviços criados em domínios aleatórios.</p>
+
+<p>Serviços que geram aliases com aparência realista (primeiro nome. sobrenome):</p>
+
+<ul>
+    <li><a href="https://temporarymail.com/">TemporaryMail</a></li>
+    <li><a href="https://www.minuteinbox.com/">MinuteInbox</a></li>
+</ul>
+
+<p>Outros serviços populares:</p>
+
+<ul>
+    <li><a href="https://10minutemail.net">10minutemail</a></li>
+    <li><a href="https://temp-mail.org/ru/">TEMPMAIL</a></li>
+    <li><a href="https://www.mohmal.com/en">Mohmal</a></li>
+</ul>
+
+<h2>Caixas de Correio Públicas</h2>
+
+<p>Na internet, você também pode encontrar serviços que permitem o uso de <strong>seu alias</strong> para uma caixa de correio temporária. Esses endereços de e-mail são convenientes para serviços em que o e-mail deve parecer legítimo.</p>
+
+<p>Exemplos de tais serviços:</p>
+
+<ul>
+        <li><a href="https://maildrop.cc/">Maildrop</a></li>
+        <li><a href="https://mailsac.com/">Mailsac</a></li>
+        <li><a href="https://tempmail.plus">templail+</a></li>
+        <li><a href="https://yopmail.com/">Yopmail</a> - ele também pode oferecer suporte para encaminhamento (veja abaixo)</li>
+</ul>
+
+<h2>Encaminhamento de E-mails de Outras Caixas de Correio</h2>
+
+<p>Serviços que permitem o encaminhamento de e-mails usam os chamados "máscaras" para ocultar seu verdadeiro endereço de e-mail.</p>
+
+<p>O princípio de funcionamento é muito simples:</p>
+
+<ul>
+    <li>A Máscara de Endereço recebe um e-mail</li>
+    <li>Uma carta é encaminhada deste endereço para o seu endereço real</li>
+</ul>
+
+<p>Exemplo com base no Firefox Relay:</p>
+
+<p>Primeiro, é fornecida uma máscara que oculta o endereço real.</p>
+
+<p align="center"><img width="800" alt="firefoxrelay" src="../img/firefoxrelay.png"></p>
+
+<p>Agora, usando este endereço mascarado, você pode receber e-mails no seu endereço de e-mail sem revelá-lo a toda a internet.</p>
+
+<p align="center"><img width="800" alt="relayedemail" src="../img/relayedemail.png"></p>
+
+<p>A Apple oferece a seus usuários a oportunidade de usar caixas de correio anonimizadas que funcionam da mesma maneira. Eles se parecem com isso: <code>1v5zvsmkp6@privaterelay.appleid.com</code>.</p>
+
+<p><em>A seção será atualizada</em></p>
+
+<p>Exemplos de serviços:</p>
+
+<ul>
+    <li><a href="https://simplelogin.io/">SimpleLogin</a></li>
+    <li><a href="https://anonaddy.com/">AnonAddy</a> - gera endereços de acordo com um modelo <code>*@ivanov.anonaddy.com</code></li>
+    <li><a href="https://relay.firefox.com/">Firefox Relay</a> - gera endereços aleatórios no domínio <code>mozmail.com</code></li>
+    <li><a href="https://erine.email/">erine.email</a> - cria endereços de acordo com um modelo <code>*.ivanov@erine.email</code></li>
+</ul>
+
+<hr>
+
+[⬅️ Anterior](./04-telefone.html) | [⏫ Tabela de Conteúdos](../README.md) | [Próximo ➡️](./06-dados-pessoais.md)
