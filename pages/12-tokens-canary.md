@@ -49,5 +49,3 @@
 <p>A seção será atualizada</p>
 
 <hr>
-
-[⬅️ Anterior](./11-fonte-vazamentos.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./13-violacoes-inuteis.md)
