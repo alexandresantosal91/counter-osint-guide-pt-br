@@ -1,0 +1,42 @@
+<h1>Foto</h1>
+
+<p align="justify">Infelizmente, as fotos (e qualquer imagem em geral) têm sido facilmente reconhecidas e indexadas há muito tempo. Os motores de busca podem procurar fotos semelhantes, distinguir texto, objetos e pessoas específicas nelas. As redes sociais podem reconhecê-lo em uma foto arbitrariamente e colocar uma marca lá com um link para você, mesmo sem o seu conhecimento.</p>
+
+<p align="justify">Felizmente, nos últimos anos, a tendência em direção à privacidade se intensificou, e, portanto, as redes sociais estão introduzindo restrições razoáveis na identificação de pessoas. E os motores de busca se recusam a procurar rostos com precisão. Isso reduz a probabilidade de uso malicioso de tais funções, mas não impede o uso dessas tecnologias em geral. Agora, ferramentas de reconhecimento podem ser facilmente criadas independentemente ou usando análogos de uso compartilhado.</p>
+
+<p><em>Esta seção será atualizada.</em></p>
+
+<h2>Como se testar</h2>
+
+<p align="justify">No espaço pós-soviético, ainda é possível usar <a href="https://images.yandex.ru/">Yandex</a>. Além disso, entre os motores de busca gratuitos especializados, você pode observar o <a href="https://search4faces.com/">search4faces</a>, que permite pesquisar fotos do VKontakte, Odnoklassniki, TikTok e Clubhouse.</p>
+
+<p align="justify">Se você usou ativamente as redes sociais, pode encontrar não apenas a sua conta, mas também fotos com o seu rosto nas contas de seus amigos, conhecidos ou outras pessoas que nem sequer têm relação com você. Claro, é extremamente difícil excluir tais fotos, e se você não deseja que elas apontem para você, deve excluir sua conta de maneira competente <a href="./deleteme.md">delete account</a>.</p>
+
+<p align="center"><img width="800" alt="imagem" src="https://user-images.githubusercontent.com/31013580/193446993-ae071840-49f2-45f3-b517-6b1e2a97a510.png"></p>
+
+<h2>Foto facial como biometria</h2>
+
+<p><em>Esta seção será atualizada.</em></p>
+
+<h3>Camuflagem</h3>
+
+<p align="justify">Para combater as ferramentas de reconhecimento de pessoas em imagens, é usada a chamada camuflagem. A essência do método é distorcer a foto de tal forma que a vejamos visualmente como a original, mas os programas não veem uma pessoa ou um rosto lá.</p> 
+
+<p align="justify">Os métodos de distorção podem ser tanto manuais (desfocagem / retoque / distorção de partes individuais da foto) quanto automáticos. Dentre esses últimos, podem ser mencionados programas especiais que usam algoritmos de reconhecimento facial na direção oposta, modificando a foto de forma que a busca não seja possível. Um exemplo de tal programa: <a href="https://github.com/Shawn-Shan/fawkes">Fawkes</a>.</p>
+
+<p align="justify">É claro que tal pós-processamento de fotos ou vídeos não ajudará de forma proativa. Para tornar difícil o reconhecimento de rostos com "câmeras inteligentes" na vida real, são inventadas maneiras originais e não muito boas, exemplos podem ser lidos nos links no final da página.</p>
+
+<h2>Metadados da foto</h2>
+
+<p><em>Esta seção será atualizada.</em></p>
+
+<h2>Materiais usados e links úteis</h2>
+
+<ul>
+    <li><a href="https://habr.com/ru/post/586094/">Big Brother is (so far) blind</a></li>
+    <li><a href="https://telegra.ph/Novyj-makiyazh-korolya-07-14">King's new makeup</a></li>
+</ul>
+
+<hr>
+
+[⬅️ Anterior](./08-senha.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./10-vazamentos-dados.md)

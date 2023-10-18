@@ -15,21 +15,21 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
 
 ## Tópicos Abordados
 
-1. [**▶️ Introdução**](./pages/1-introducao.md)
-2. [**❓ Por que isso é importante?**](./pages/2-por-que-isso-e-importante.md)
-3. [**🛁 Higiene Digital Básica**](./pages/3-higiene-digital-basica.md)
-    - [☎️ Número de Telefone](./pages/4-numero-de-telefone.md)
-    - [📧 Endereço de E-mail](./pages/5.e-mail.md)
-    - [📛 Nome, Sobrenome, Nome do Meio, Data de Nascimento](./pages/6-dados-pessoais.md)
-    - [📍 Endereço Físico e Geolocalização](./pages/7-endereco-fisico.md)
-    - [🔑 Senha](./pages/8-senha.md)
-    - [🖼️ Foto](./pages/9-foto.md)
+1. [**▶️ Introdução**](./pages/01-introducao.md)
+2. [**❓ Por que isso é importante?**](./pages/02-por-que-e-importante.md)
+3. [**🛁 Higiene Digital Básica**](./pages/03-higiene-digital.md)
+    - [☎️ Número de Telefone](./pages/04-telefone.md)
+    - [📧 Endereço de E-mail](./pages/05.mail.md)
+    - [📛 Nome, Sobrenome, Nome do Meio, Data de Nascimento](./pages/06-dados-pessoais.md)
+    - [📍 Endereço Físico e Geolocalização](./pages/07-endereco-fisico.md)
+    - [🔑 Senha](./pages/08-senha.md)
+    - [🖼️ Foto](./pages/09-foto.md)
 4. [**💧 Vazamentos de banco de dados e “probiv” (verificações de antecedentes ilegais)**](./pages/10-vazamentos-dados.md)
-    - [🔎 Determinando a Fonte de um Vazamento]()
-    - [🐦 Tokens Canary]()
-    - [Tornando as Violações Inúteis]()
-5. [**📱 Privacidade de Celular**]()
-6. [**🌐 Privacidade em Redes Sociais e Mensageiros**]()
+    - [🔎 Determinando a Fonte de um Vazamento](./pages/11-fonte-vazamentos.md)
+    - [🐦 Tokens Canary](./pages/12-tokens-canary.md)
+    - [Tornando as Violações Inúteis](./pages/13-violacoes-inuteis.md)
+5. [**📱 Privacidade de Celular**](./pages/14-privacidade-celular.md)
+6. [**🌐 Preservando a sua Privacidade em Redes Sociais e Mensagens**]()
     - [Facebook]()
     - [Telegram]()
     - [VKontakte]()
@@ -50,6 +50,7 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
 <h2 style="background-color: #F5F5F5;">Autores e Contribuidores</h2>
 
 <table>
+
   <tr>
     <td>
       <a href="https://github.com/soxoj">
@@ -70,4 +71,5 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
       </a>
     </td>
   </tr>
+
 </table>
