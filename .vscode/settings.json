@@ -1,0 +1,14 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Guia Counter-OSINT e de Privacidade: Protegendo Seus Dados Pessoais\n\n",
+    "description": "Bem-vindo ao guia completo de contrainteligência (Counter OSINT) e privacidade, focado na Runet, Comunidade de Estados Independentes (CIS) e América Latina. Neste guia, você encontrará estratégias e práticas para proteger sua privacidade e segurança online nessas regiões.",
+    "version": "1.0.0"
+  },
+  "host": "https://github.com/alexandresantosal91/counter-osint-guide-pt-br",
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+  }
+}
