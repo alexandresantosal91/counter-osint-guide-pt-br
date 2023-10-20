@@ -113,9 +113,9 @@
     <p>Usando o gerenciador de senhas BitWarden para gerar alias de e-mail</p>
     <p>O gerenciador de senhas BitWarden permite que você gere alias de e-mail aleatórios com um sinal de adição, bem como endereços de caixa de correio catch-all e até caixas de correio para encaminhamento.</p>
     <p>Leia mais sobre esses recursos na seção "🥷 Nível Avançado" da seção de <a href="email.md">Caixa de Correio</a>.</p>
-    <img src="../img/bitwarden_en.png" alt="imagem">
+    <img src="../../assets/img/bitwarden_en.png" alt="imagem">
 </details>
 
 <hr>
 
-[⬅️ Anterior](./10-vazamentos-dados.html) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./12-tokens-canary.md)
+[⬅️ Anterior](10-vazamentos-dados.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](12-tokens-canary.md)

@@ -22,4 +22,4 @@
 
 <hr>
 
-[⬅️ Anterior](./02-por-que-e-importante.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](./04-telefone.md)
+[⬅️ Anterior](02-por-que-e-importante.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](04-telefone.md)

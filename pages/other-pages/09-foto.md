@@ -39,4 +39,4 @@
 
 <hr>
 
-[⬅️ Anterior](./08-senha.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./10-vazamentos-dados.md)
+[⬅️ Anterior](08-senha.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](10-vazamentos-dados.md)

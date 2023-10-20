@@ -30,4 +30,4 @@
 
 <hr>
 
-[⬅️ Anterior](./09-foto.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./11-fonte-vazamentos.md)
+[⬅️ Anterior](09-foto.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](11-fonte-vazamentos.md)

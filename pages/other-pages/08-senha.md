@@ -75,4 +75,4 @@
 
 <hr>
 
-[⬅️ Anterior](./07-endereco-fisico.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./09-foto.md)
+[⬅️ Anterior](07-endereco-fisico.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](09-foto.md)

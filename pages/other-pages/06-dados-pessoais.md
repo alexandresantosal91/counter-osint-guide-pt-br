@@ -27,4 +27,4 @@
 
 <hr>
 
-[⬅️ Anterior](./05.mail.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./07-endereco-fisico.md)
+[⬅️ Anterior](05.mail.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](07-endereco-fisico.md)

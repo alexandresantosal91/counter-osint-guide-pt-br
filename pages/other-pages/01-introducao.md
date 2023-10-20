@@ -46,4 +46,4 @@
 
 <hr>
 
-[⏫ Tabela de Conteúdos](../README.md) | [➡️ Próxima](./02-por-que-e-importante.md)
+[⏫ Tabela de Conteúdos](../README.md) | [➡️ Próxima](02-por-que-e-importante.md)

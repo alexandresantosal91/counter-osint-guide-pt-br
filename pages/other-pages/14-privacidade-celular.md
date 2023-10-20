@@ -57,4 +57,4 @@
 
 <hr>
 
-[⬅️ Anterior](./13-violacoes-inuteis.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./)
+[⬅️ Anterior](13-violacoes-inuteis.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./15-privacidade-rede-social.md)

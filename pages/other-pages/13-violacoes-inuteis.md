@@ -45,4 +45,4 @@
 
 <hr>
 
-[⬅️ Anterior](./12-tokens-canary.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./14-privacidade-celular.md)
+[⬅️ Anterior](12-tokens-canary.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](14-privacidade-celular.md)

@@ -14,7 +14,7 @@
 
 <p align="justify">Ele permite criar vários tipos de canários que podemos usar para detectar funcionários curiosos de sua organização ou detectar a comprometimento de seus sistemas mesmo antes que um invasor possa realizar ações destrutivas.</p>
 
-<p align="center"><img width="800"  alt="Desativando o preenchimento automático na barra de pesquisa" src="../img/canary_token_flow.png">
+<p align="center"><img width="800"  alt="Desativando o preenchimento automático na barra de pesquisa" src="../../assets/img/canary_token_flow.png">
 
 <p align="justify">Quais tipos podem ser gerados e em que condições a notificação será recebida:</p>
 
@@ -40,7 +40,7 @@
 
 <p>Exemplo de notificação por e-mail:</p>
 
-<p align="center"><img width="800" alt="Exemplo de relatório de token de canário" src="../img/canary_token_example.png">
+<p align="center"><img width="800" alt="Exemplo de relatório de token de canário" src="../../assets/img/canary_token_example.png">
     
 <p>A seção será atualizada</p>
 

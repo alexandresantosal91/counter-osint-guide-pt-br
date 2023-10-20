@@ -46,4 +46,4 @@
 
 <hr>
 
-[⬅️ Anterior](./06-dados-pessoais.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](./08-senha.md)
+[⬅️ Anterior](06-dados-pessoais.md) | [⏫ Tabela de conteúdos](../README.md) | [Próximo ➡️](08-senha.md)

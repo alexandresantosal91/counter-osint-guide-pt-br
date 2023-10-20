@@ -64,4 +64,4 @@
 
 <hr>
 
-[⬅️ Anterior](./03-higiene-digital.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](./05.mail.md)
+[⬅️ Anterior](03-higiene-digital.md) | [⏫ Tabela de conteúdos](../README.md) | [➡️ Próximo](05.mail.md)
