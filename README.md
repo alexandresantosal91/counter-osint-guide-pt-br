@@ -39,12 +39,12 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
     - [🔗 Vinculação de um Número de Telefone a uma Conta](pages/other-pages/21-vinculacao-numero-telefone.md)
     - [🚫 Remoção de Informações Sobre Você](pages/other-pages/22-removendo-informacoes.md)
     - [📺 Compartilhamento de Tela](pages/other-pages/23-compartilhamento-tela.md)
-9. [**Específico para a Ex-URSS**]()
-    - [🇷🇺 Rússia]()
-    - [🇺🇦 Ucrânia]()
-    - [🇧🇾 Bielorrússia]()
-    - [🇰🇿 Cazaquistão]()
-10. [**🌎 América Latinal**]()
+9. **Específico para a Ex-URSS**
+    - [🇷🇺 Rússia](pages/other-pages/24-russia.md)
+    - [🇺🇦 Ucrânia](pages/other-pages/25-ucrania.md)
+    - [🇧🇾 Bielorrússia](pages/other-pages/26')
+    - [🇰🇿 Cazaquistão](pages/other-pages/27-cazaquistão.md)
+10. **🌎 América Latinal**
     - [🇧🇷 Brasil]()
 
 <h2 style="background-color: #F5F5F5;">Autores e Contribuidores</h2>
